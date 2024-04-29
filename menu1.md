@@ -14,14 +14,14 @@ tags = ["syntax", "code"]
 
 ## zenn
 
-* **https://zenn.dev/toratti**
+* **[zenn](https://zenn.dev/toratti)**
 
 
 ## GitHub
 
-* **https://github.com/ryusei-nyaan**
+* **[GitHub](https://github.com/ryusei-nyaan)**
 
 
 ## Plicy
 
-* **https://plicy.net/User/67652**
+* **[Plicy](https://plicy.net/User/67652)**
