@@ -17,6 +17,7 @@
 - Docker
 - Terraform
 - AWS
+- Google Cloud
 - Azure
 - Linux(Redhat,CentOS,Ubuntu,raspberry pi)
 - Windows Server
