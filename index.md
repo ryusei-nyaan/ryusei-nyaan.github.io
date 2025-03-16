@@ -27,7 +27,5 @@
 @@colbox-blue
 * [地学1問１答ゲーム](https://plicy.net/GamePlay/156759)
 
-* [サブネット作るツール](https://makesubnet.onrender.com/)
-
 * その他=>[LINK](/menu1/)
 @@
